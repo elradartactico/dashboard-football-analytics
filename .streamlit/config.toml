@@ -1,0 +1,12 @@
+[theme]
+# Sincronizado automáticamente desde config.py — no editar manualmente.
+primaryColor             = "#55ABAB"
+backgroundColor          = "#0C1244"
+secondaryBackgroundColor = "#0D1D5E"
+textColor                = "#F3F4F8"
+
+[server]
+maxUploadSize = 200
+
+[runner]
+magicEnabled = true
